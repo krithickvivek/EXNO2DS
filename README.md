@@ -24,22 +24,23 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/ef46cef8-8f68-4ef1-94f1-228ee79b6132)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/e813b43a-03c0-4450-9655-ae64c8d56417)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/69e5e24e-a52a-4184-95f8-2f70d89bcfda)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/c44a0e54-80ae-4edb-9bcf-940b1d4a6636)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/38e448ef-b0e3-455a-9f3f-5523decd2c80)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/b40cbcfb-207d-47e8-9536-490636467675)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/460f05ea-409a-423d-b513-624224a71d72)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/7d42eed6-212f-4a00-8621-c4b80a4d3320)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/eee187f1-fced-40b7-acc2-ac13dde6b6b2)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/1ed36786-b645-4f97-b475-38d550cbbcda)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/cab0fe09-fae4-4831-8cfb-6475db3e1bbe)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/a9fe6d2b-c93b-4fcf-ab37-637ec853b193)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/2e764cd8-e57f-43be-95ad-451cfd44a4eb)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/23291bc5-fad5-4a71-9456-e544c6490423)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/1eef899e-9caa-4bf6-b703-ab82c35e6be2)
-![image](https://github.com/K-Dharshini/EXNO2DS/assets/139334830/2f992719-5c1b-4ed7-8a96-f25ed1d8d86e)
+![image](https://github.com/user-attachments/assets/1e1c010a-87a9-4bb7-84bc-aab9d586e5dc)
+![image](https://github.com/user-attachments/assets/1df701a2-d35b-4661-a25d-0fd36b859cd3)
+![image](https://github.com/user-attachments/assets/57aaa3d7-2e05-4bd7-80c4-fab2c16a9732)
+![image](https://github.com/user-attachments/assets/54805151-4e2e-471e-a355-8bfe1119b602)
+![image](https://github.com/user-attachments/assets/b7e0f80f-e2ea-4c52-96ae-c732d438036b)
+![image](https://github.com/user-attachments/assets/c1743c7d-a632-4e36-a03b-715b35dda601)
+![image](https://github.com/user-attachments/assets/79b01085-485d-4cc2-968a-fbf81cc85921)
+![image](https://github.com/user-attachments/assets/a919e500-e9e4-47b9-8a0a-31ba26cc96c9)
+![image](https://github.com/user-attachments/assets/d603187c-d36c-41e2-95a0-5a4e046d8781)
+![image](https://github.com/user-attachments/assets/54a93a14-d8c6-4e80-9a97-cfd3b6222202)
+![image](https://github.com/user-attachments/assets/89c199ac-a169-4d60-bff5-bcee21544154)
+![image](https://github.com/user-attachments/assets/a7cbb12a-7aa9-496d-ab24-d5fe048a3456)
+![image](https://github.com/user-attachments/assets/ab6bf697-badc-4757-8f7a-1fd8dc6ea5fb)
+![image](https://github.com/user-attachments/assets/935ef4ff-4cf2-4089-8155-e5ed330eb4fe)
+![image](https://github.com/user-attachments/assets/f5aaa66e-e58b-43ba-8a83-0122f8cb5a51)
+![image](https://github.com/user-attachments/assets/9b664935-25d8-491f-8bb0-be4d2b8754b0)
+
 
 
 # RESULT
